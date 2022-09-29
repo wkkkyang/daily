@@ -1,1 +1,0 @@
-print('remote master wkkkyang hello world')
