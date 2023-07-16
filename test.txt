@@ -1,4 +1,6 @@
-print('Hello World')
+
 def main():
     print('sss')
 
+if __name__ == '__main__':
+    main()
