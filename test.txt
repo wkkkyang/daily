@@ -1,6 +1,7 @@
 
 def main():
     print('sss')
+    print('wky163修改了')
 
 if __name__ == '__main__':
     main()
